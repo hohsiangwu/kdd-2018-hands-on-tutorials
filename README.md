@@ -13,7 +13,7 @@ The target audience of this tutorial is novice as well as moderately skilled use
 
 
 ## Tutorial Outline
-See this [notebook](Feature Extraction and Summarization with Sequence to Sequence Learning.ipynb). We will go in depth into (1) how these models are being used for product research at Github, (2) practical considerations with regards to using this model in a customer facing product and how to evaluate results both qualitatively and quantitatively, (3) related research we have conducted, (4) other tools and techniques that can be used to accomplish the same goals and (5) a live Q&A session.
+See this [notebook](https://github.com/hohsiangwu/kdd-2018-hands-on-tutorials/blob/master/Feature%20Extraction%20and%20Summarization%20with%20Sequence%20to%20Sequence%20Learning.ipynb). We will go in depth into (1) how these models are being used for product research at Github, (2) practical considerations with regards to using this model in a customer facing product and how to evaluate results both qualitatively and quantitatively, (3) related research we have conducted, (4) other tools and techniques that can be used to accomplish the same goals and (5) a live Q&A session.
 
 ## Other information
 Tutorial duration is 3 hours, Only requirement is need access to the internet and latest version of Google Chrome, no software licenses are required.  We will cover setup during the tutorial which will only require the installation of 1-2 python packages.
