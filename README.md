@@ -19,12 +19,13 @@ See this [notebook](https://github.com/hohsiangwu/kdd-2018-hands-on-tutorials/bl
 Tutorial duration is 3 hours, Only requirement is need access to the internet and latest version of Google Chrome, no software licenses are required.  We will cover setup during the tutorial which will only require the installation of 1-2 python packages.
 
 ## Tutors
-### [Hamel Husain](https://github.com/hamelsmu)
-![](https://github.com/hamelsmu.png?size=150)
-
-Hamel Husain is a Senior Data Scientist at Github who is focused on creating the next generation of developer tools powered by machine learning. His work involves extensive use of natural language and deep learning techniques to extract features from code and text.  Prior to Github, Hamel was a Data Scientist at Airbnb where he worked on growth marketing and at DataRobot where he helped build automated machine learning tools for data scientists. Hamel also has 10 years of experience working as a consultant across the telecommunication, retail and entertainment industries.  Hamel holds a Masters in Computer Science from the Georgia Institute of Technology, a J.D. from The University of Michigan and a B.S in Math and Management science from Southern Methodist University. Hamel can also be reached on [Twitter](https://twitter.com/HamelHusain) and [LinkedIn](https://www.linkedin.com/in/hamelhusain/).
 
 ### [Ho-Hsiang Wu](https://github.com/hohsiangwu/)
 ![](https://github.com/hohsiangwu.png?size=150)
 
 Ho-Hsiang Wu is a Data Scientist at GitHub building data products using machine learning models including recommendation systems and graph analysis. Currently, he is focusing on efforts in understanding code by building various representations adopting natural language processing techniques and deep learning models. Prior to GitHub, he worked at various music streaming companies developing features that help users discover music. He graduated from University of California, Los Angeles, where he received his Master of Science in Electrical Engineering. Ho-Hsiang can also be reached on [Twitter](https://twitter.com/hohsiangwu) and [LinkedIn](https://www.linkedin.com/in/hohsiangwu/).
+
+### [Hamel Husain](https://github.com/hamelsmu)
+![](https://github.com/hamelsmu.png?size=150)
+
+Hamel Husain is a Senior Data Scientist at Github who is focused on creating the next generation of developer tools powered by machine learning. His work involves extensive use of natural language and deep learning techniques to extract features from code and text.  Prior to Github, Hamel was a Data Scientist at Airbnb where he worked on growth marketing and at DataRobot where he helped build automated machine learning tools for data scientists. Hamel also has 10 years of experience working as a consultant across the telecommunication, retail and entertainment industries.  Hamel holds a Masters in Computer Science from the Georgia Institute of Technology, a J.D. from The University of Michigan and a B.S in Math and Management science from Southern Methodist University. Hamel can also be reached on [Twitter](https://twitter.com/HamelHusain) and [LinkedIn](https://www.linkedin.com/in/hamelhusain/).
