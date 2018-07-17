@@ -1,5 +1,7 @@
 # Feature Extraction and Summarization with Sequence to Sequence Learning
 
+A [Hands on tutorial](http://www.kdd.org/kdd2018/hands-on-tutorials) for [KDD 2018](http://www.kdd.org/kdd2018/).
+
 ## Abstract
 Chatbots, machine translation and agents that summarize text coherently may seem like science fiction or marketing-hype to even experienced machine learning practitioners. In this hands-on-tutorial, you will be guided through a real industry example of how sequence to sequence models are used to create data products. Machine learning engineers from Github will guide you through the process of collecting and preparing the data, building the model architecture and analyzing results. In this hands on session, we will go into greater depth regarding how the architecture was built, how it is used in practice and practical considerations with regards to using this model in a production environment. This will be an end to end example including a dataset that will be publicly hosted with all code made publicly available.
 
