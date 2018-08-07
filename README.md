@@ -1,4 +1,4 @@
-# A Hands On Tutorial, With Applications of Sequence to Sequence Learning using Keras
+# A Hands On Tutorial, With Applications of Sequence to Sequence Learning Using Keras
 
 A [hands-on tutorial](http://www.kdd.org/kdd2018/hands-on-tutorials) for [KDD 2018](http://www.kdd.org/kdd2018/).
 
