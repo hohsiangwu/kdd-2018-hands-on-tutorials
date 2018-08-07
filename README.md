@@ -6,8 +6,8 @@ A [hands-on tutorial](http://www.kdd.org/kdd2018/hands-on-tutorials) for [KDD 20
 Chatbots, machine translation and agents that summarize text coherently may seem like science fiction or marketing-hype to even experienced machine learning practitioners. In this hands-on-tutorial, you will be guided through a real industry example of how sequence to sequence models are used to create data products. Machine learning engineers from Github will guide you through the process of collecting and preparing the data, building the model architecture and analyzing results. In this hands on session, we will go into greater depth regarding how the architecture was built, how it is used in practice and practical considerations with regards to using this model in a production environment. This will be an end to end example including a dataset that will be publicly hosted with all code made publicly available.
 
 A preview of this tutorial can be viewed by reading these blog posts:
-- [Create data products using sequence to sequence models](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)
-- [Semantic code search](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
+- [How To Create Data Products That Are Magical Using Sequence-to-Sequence Models](https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8)
+- [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
 
 ## Requirements
 The target audience of this tutorial is novice as well as moderately skilled users who have some familiarity with neural networks and are comfortable writing code. Attendees must bring a laptop and will be using free [gpu-enabled notebooks (with 12 hour runtime limit) from Google](https://research.google.com/colaboratory/) - google chrome browser is required. Open source tools will be used, so no software licenses will be required.
