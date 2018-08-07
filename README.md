@@ -10,7 +10,7 @@ A preview of this tutorial can be viewed by reading these blog posts:
 - [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
 
 ## Requirements
-The target audience of this tutorial is novice as well as moderately skilled users who have some familiarity with neural networks and are comfortable writing code. Attendees must bring a laptop and will be using free [gpu-enabled notebooks (with 12 hour runtime limit) from Google](https://research.google.com/colaboratory/) - google chrome browser is required. Open source tools will be used, so no software licenses will be required.
+The target audience of this tutorial are moderately skilled users who have some familiarity with neural networks and are comfortable writing code. Attendees must bring a laptop and will be using free [gpu-enabled notebooks (with 12 hour runtime limit) from Google](https://research.google.com/colaboratory/) - google chrome browser is required. Open source tools will be used, so no software licenses will be required.
 - [Google colab url](https://colab.research.google.com/github/hohsiangwu/kdd-2018-hands-on-tutorials/blob/master/Feature%20Extraction%20and%20Summarization%20with%20Sequence%20to%20Sequence%20Learning.ipynb) for this tutorial
 
 
@@ -18,7 +18,7 @@ The target audience of this tutorial is novice as well as moderately skilled use
 See this [notebook](https://github.com/hohsiangwu/kdd-2018-hands-on-tutorials/blob/master/Feature%20Extraction%20and%20Summarization%20with%20Sequence%20to%20Sequence%20Learning.ipynb). We will go in depth into (1) how these models are being used for product research at Github, (2) practical considerations with regards to using this model in a customer facing product and how to evaluate results both qualitatively and quantitatively, (3) related research we have conducted, (4) other tools and techniques that can be used to accomplish the same goals and (5) a live Q&A session.
 
 ## Other information
-Tutorial duration is 3 hours, Only requirement is need access to the internet and latest version of Google Chrome, no software licenses are required.  We will cover setup during the tutorial which will only require the installation of 1-2 python packages.
+TThe tutorial's duration is 3 hours. Latest version of Google Chrome and access to the internet is required. We will cover setup during the tutorial which will only require the installation of 1-2 python packages.
 
 ## Tutors
 
@@ -30,4 +30,4 @@ Ho-Hsiang Wu is a Data Scientist at GitHub building data products using machine 
 ### [Hamel Husain](https://github.com/hamelsmu)
 ![](https://github.com/hamelsmu.png?size=150)
 
-Hamel Husain is a Senior Data Scientist at Github who is focused on creating the next generation of developer tools powered by machine learning. His work involves extensive use of natural language and deep learning techniques to extract features from code and text.  Prior to Github, Hamel was a Data Scientist at Airbnb where he worked on growth marketing and at DataRobot where he helped build automated machine learning tools for data scientists. Hamel also has 10 years of experience working as a consultant across the telecommunication, retail and entertainment industries.  Hamel holds a Masters in Computer Science from the Georgia Institute of Technology, a J.D. from The University of Michigan and a B.S in Math and Management science from Southern Methodist University. Hamel can also be reached on [Twitter](https://twitter.com/HamelHusain) and [LinkedIn](https://www.linkedin.com/in/hamelhusain/).
+Hamel Husain is a machine learning engineer at GitHub, where he focuses on applications of natural language processing and representation learning of text and code.    Prior to GitHub, Hamel worked at Airbnb where he built machine learning systems to optimize growth marketing.  Prior to Airbnb, Hamel was a machine learning at an AutoML startup, DataRobot.  Prior to this, Hamel worked in management consulting for 10 years.  Hamel has a masters in Computer Science from Georgia Tech.  Hamel's current research interests are representation learning of code and meta-learning. . Hamel can also be reached on [Twitter](https://twitter.com/HamelHusain) and [LinkedIn](https://www.linkedin.com/in/hamelhusain/).
