@@ -1,4 +1,4 @@
-# Feature Extraction and Summarization with Sequence to Sequence Learning
+# KDD Tutorial (2018): Feature Extraction and Summarization with Sequence to Sequence Learning
 
 A [hands-on tutorial](http://www.kdd.org/kdd2018/hands-on-tutorials) for [KDD 2018](http://www.kdd.org/kdd2018/).
 
