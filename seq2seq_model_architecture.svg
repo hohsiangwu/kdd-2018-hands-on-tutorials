@@ -1,0 +1,82 @@
+
+<svg height="410pt" viewBox="0.00 0.00 548.00 410.00" width="548pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g class="graph" id="graph0" transform="scale(1 1) rotate(0) translate(4 406)">
+<title>G</title>
+<polygon fill="white" points="-4,4 -4,-406 544,-406 544,4 -4,4" stroke="none"/>
+<!-- 140465408816968 -->
+<g class="node" id="node1"><title>140465408816968</title>
+<polygon fill="none" points="59,-365.5 59,-401.5 268,-401.5 268,-365.5 59,-365.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="163.5" y="-379.8">Decoder-Input: InputLayer</text>
+</g>
+<!-- 140462192858392 -->
+<g class="node" id="node2"><title>140462192858392</title>
+<polygon fill="none" points="15.5,-292.5 15.5,-328.5 311.5,-328.5 311.5,-292.5 15.5,-292.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="163.5" y="-306.8">Decoder-Word-Embedding: Embedding</text>
+</g>
+<!-- 140465408816968&#45;&gt;140462192858392 -->
+<g class="edge" id="edge1"><title>140465408816968-&gt;140462192858392</title>
+<path d="M163.5,-365.313C163.5,-357.289 163.5,-347.547 163.5,-338.569" fill="none" stroke="black"/>
+<polygon fill="black" points="167,-338.529 163.5,-328.529 160,-338.529 167,-338.529" stroke="black"/>
+</g>
+<!-- 140454723112688 -->
+<g class="node" id="node4"><title>140454723112688</title>
+<polygon fill="none" points="0,-219.5 0,-255.5 327,-255.5 327,-219.5 0,-219.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="163.5" y="-233.8">Decoder-Batchnorm-1: BatchNormalization</text>
+</g>
+<!-- 140462192858392&#45;&gt;140454723112688 -->
+<g class="edge" id="edge2"><title>140462192858392-&gt;140454723112688</title>
+<path d="M163.5,-292.313C163.5,-284.289 163.5,-274.547 163.5,-265.569" fill="none" stroke="black"/>
+<polygon fill="black" points="167,-265.529 163.5,-255.529 160,-265.529 167,-265.529" stroke="black"/>
+</g>
+<!-- 140462193067792 -->
+<g class="node" id="node3"><title>140462193067792</title>
+<polygon fill="none" points="331,-292.5 331,-328.5 540,-328.5 540,-292.5 331,-292.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="435.5" y="-306.8">Encoder-Input: InputLayer</text>
+</g>
+<!-- 140462193062128 -->
+<g class="node" id="node5"><title>140462193062128</title>
+<polygon fill="none" points="345.5,-219.5 345.5,-255.5 525.5,-255.5 525.5,-219.5 345.5,-219.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="435.5" y="-233.8">Encoder-Model: Model</text>
+</g>
+<!-- 140462193067792&#45;&gt;140462193062128 -->
+<g class="edge" id="edge3"><title>140462193067792-&gt;140462193062128</title>
+<path d="M435.5,-292.313C435.5,-284.289 435.5,-274.547 435.5,-265.569" fill="none" stroke="black"/>
+<polygon fill="black" points="439,-265.529 435.5,-255.529 432,-265.529 439,-265.529" stroke="black"/>
+</g>
+<!-- 140465622676536 -->
+<g class="node" id="node6"><title>140465622676536</title>
+<polygon fill="none" points="222,-146.5 222,-182.5 377,-182.5 377,-146.5 222,-146.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="299.5" y="-160.8">Decoder-GRU: GRU</text>
+</g>
+<!-- 140454723112688&#45;&gt;140465622676536 -->
+<g class="edge" id="edge4"><title>140454723112688-&gt;140465622676536</title>
+<path d="M196.075,-219.494C214.528,-209.861 237.808,-197.707 257.607,-187.37" fill="none" stroke="black"/>
+<polygon fill="black" points="259.474,-190.344 266.719,-182.614 256.235,-184.139 259.474,-190.344" stroke="black"/>
+</g>
+<!-- 140462193062128&#45;&gt;140465622676536 -->
+<g class="edge" id="edge5"><title>140462193062128-&gt;140465622676536</title>
+<path d="M402.925,-219.494C384.472,-209.861 361.192,-197.707 341.393,-187.37" fill="none" stroke="black"/>
+<polygon fill="black" points="342.765,-184.139 332.281,-182.614 339.526,-190.344 342.765,-184.139" stroke="black"/>
+</g>
+<!-- 140462190791816 -->
+<g class="node" id="node7"><title>140462190791816</title>
+<polygon fill="none" points="136,-73.5 136,-109.5 463,-109.5 463,-73.5 136,-73.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="299.5" y="-87.8">Decoder-Batchnorm-2: BatchNormalization</text>
+</g>
+<!-- 140465622676536&#45;&gt;140462190791816 -->
+<g class="edge" id="edge6"><title>140465622676536-&gt;140462190791816</title>
+<path d="M299.5,-146.313C299.5,-138.289 299.5,-128.547 299.5,-119.569" fill="none" stroke="black"/>
+<polygon fill="black" points="303,-119.529 299.5,-109.529 296,-119.529 303,-119.529" stroke="black"/>
+</g>
+<!-- 140462190791200 -->
+<g class="node" id="node8"><title>140462190791200</title>
+<polygon fill="none" points="195,-0.5 195,-36.5 404,-36.5 404,-0.5 195,-0.5" stroke="black"/>
+<text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="299.5" y="-14.8">Final-Output-Dense: Dense</text>
+</g>
+<!-- 140462190791816&#45;&gt;140462190791200 -->
+<g class="edge" id="edge7"><title>140462190791816-&gt;140462190791200</title>
+<path d="M299.5,-73.3129C299.5,-65.2895 299.5,-55.5475 299.5,-46.5691" fill="none" stroke="black"/>
+<polygon fill="black" points="303,-46.5288 299.5,-36.5288 296,-46.5289 303,-46.5288" stroke="black"/>
+</g>
+</g>
+</svg>
