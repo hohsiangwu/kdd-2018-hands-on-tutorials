@@ -64,7 +64,7 @@ protobuf==3.6.1
 ptyprocess==0.6.0
 pyarrow==0.10.0
 pyemd==0.5.1
-Pygments==2.2.0
+Pygments==2.7.4
 Pyphen==0.9.4
 python-dateutil==2.7.3
 python-Levenshtein==0.12.0
