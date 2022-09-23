@@ -60,7 +60,7 @@ ppft==1.6.4.8
 preshed==1.0.1
 prometheus-client==0.3.1
 prompt-toolkit==1.0.15
-protobuf==3.6.1
+protobuf==3.18.3
 ptyprocess==0.6.0
 pyarrow==0.10.0
 pyemd==0.5.1
