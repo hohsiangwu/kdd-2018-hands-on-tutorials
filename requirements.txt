@@ -5,7 +5,7 @@ astor==0.7.1
 backcall==0.1.0
 bleach==2.1.4
 cachetools==2.1.0
-certifi==2018.8.13
+certifi==2022.12.7
 chardet==3.0.4
 cymem==1.31.2
 cytoolz==0.9.0.1
